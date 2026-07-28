@@ -1,0 +1,6 @@
+
+16-azure-cli.md
+17-cicd.md
+18-monitoramento.md
+19-troubleshooting.md
+20-cheatsheets.md
