@@ -85,6 +85,7 @@ linux-devops-handbook/
 ├── 18-monitoramento.md
 ├── 19-troubleshooting.md
 ├── 20-cheatsheets.md
+├── 21-terraform.md
 └── assets/
 ```
 
