@@ -863,18 +863,3 @@ Neste capítulo você aprendeu:
 - Boas práticas para ambientes de produção
 
 ---
-
-# Próximo capítulo
-
-No **Capítulo 9 — Bash Scripting**, aprenderemos:
-
-- Variáveis
-- Operadores
-- Condições (`if`, `case`)
-- Laços (`for`, `while`, `until`)
-- Funções
-- Entrada e saída de dados
-- Manipulação de arquivos
-- Tratamento de erros
-- Scripts de automação para DevOps
-- Exemplos reais de backup, deploy e monitoramento

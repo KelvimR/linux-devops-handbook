@@ -885,17 +885,3 @@ Neste capítulo você aprendeu:
 - Boas práticas para ambientes de desenvolvimento e produção
 
 ---
-
-# Próximo capítulo
-
-No **Capítulo 14 — Docker Compose**, aprenderemos:
-
-- Estrutura completa do `docker-compose.yml`
-- Redes personalizadas
-- Volumes persistentes
-- Variáveis de ambiente (`.env`)
-- Healthchecks
-- Dependências entre serviços (`depends_on`)
-- Perfis (`profiles`)
-- Casos reais com **.NET + PostgreSQL + Redis + RabbitMQ + MongoDB + Nginx**
-- Estratégias para desenvolvimento local e ambientes de homologação

@@ -987,16 +987,3 @@ Neste capítulo você aprendeu:
 - Boas práticas para automação
 
 ---
-
-# Próximo capítulo
-
-No **Capítulo 10 — Find, Grep, Sed e Awk**, aprenderemos:
-
-- Localizar arquivos
-- Buscar conteúdo em arquivos
-- Expressões regulares
-- Substituição de texto
-- Extração e transformação de dados
-- Processamento de logs
-- Automações para DevOps
-- Casos reais de troubleshooting e administração de servidores

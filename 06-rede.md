@@ -855,17 +855,3 @@ Neste capítulo você aprendeu:
 - Boas práticas para ambientes de produção
 
 ---
-
-# Próximo capítulo
-
-No **Capítulo 7 — Logs no Linux**, aprenderemos:
-
-- Estrutura de logs do sistema
-- Diretório `/var/log`
-- `journalctl`
-- `tail`
-- `less`
-- `grep`
-- Logs do Nginx, Apache, Docker e Systemd
-- Rotação de logs (`logrotate`)
-- Análise de incidentes e troubleshooting em produção.

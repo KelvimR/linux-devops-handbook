@@ -848,19 +848,3 @@ Neste capítulo você aprendeu:
 - Boas práticas de monitoramento
 
 ---
-
-# Próximo capítulo
-
-No **Capítulo 8 — Gerenciamento de Serviços com Systemd**, aprenderemos:
-
-- O que é o `systemd`
-- Conceitos de Units
-- Targets
-- Serviços (`.service`)
-- Timers
-- Inicialização do sistema
-- `systemctl`
-- Habilitar e desabilitar serviços
-- Criar serviços personalizados
-- Troubleshooting de serviços em produção
-- Integração com aplicações .NET, Docker e Nginx

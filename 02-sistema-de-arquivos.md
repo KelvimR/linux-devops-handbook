@@ -960,17 +960,3 @@ Neste capítulo você aprendeu:
 - Boas práticas
 
 ---
-
-# Próximo capítulo
-
-No próximo capítulo estudaremos **Permissões no Linux**, incluindo:
-
-- chmod
-- chown
-- chgrp
-- umask
-- usuários
-- grupos
-- permissões especiais (SUID, SGID e Sticky Bit)
-- ACL (Access Control Lists)
-- cenários reais de administração de servidores.

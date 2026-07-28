@@ -753,19 +753,3 @@ Neste capítulo você aprendeu:
 - Boas práticas para ambientes de produção
 
 ---
-
-# Próximo capítulo
-
-No **Capítulo 12 — Docker para DevOps**, aprenderemos:
-
-- O que são containers
-- Diferença entre imagem e container
-- Instalação do Docker
-- Comandos essenciais
-- Dockerfile
-- Docker Compose
-- Volumes
-- Redes
-- Logs
-- Boas práticas
-- Deploy de aplicações .NET com Docker

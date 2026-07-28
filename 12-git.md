@@ -957,19 +957,3 @@ Neste capítulo você aprendeu:
 - Boas práticas para desenvolvimento colaborativo
 
 ---
-
-# Próximo capítulo
-
-No **Capítulo 13 — Docker**, aprenderemos:
-
-- O que são containers
-- Arquitetura do Docker
-- Imagens e Containers
-- Dockerfile
-- Volumes
-- Redes
-- Docker Compose
-- Registry (Docker Hub)
-- Logs
-- Boas práticas
-- Deploy de aplicações .NET utilizando Docker

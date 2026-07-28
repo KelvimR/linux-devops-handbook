@@ -791,16 +791,3 @@ Neste capítulo você aprendeu:
 - Boas práticas para automação e troubleshooting
 
 ---
-
-# Próximo capítulo
-
-No **Capítulo 11 — Cron e Agendamento de Tarefas**, aprenderemos:
-
-- O que é o `cron`
-- Estrutura do `crontab`
-- Agendamentos por minuto, hora, dia e mês
-- Variáveis de ambiente no cron
-- Logs de execução
-- Diferenças entre `cron`, `anacron` e `systemd timers`
-- Casos reais de backup, limpeza e automação de deploy
-- Boas práticas para tarefas agendadas em produção
